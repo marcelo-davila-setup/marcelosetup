@@ -19,7 +19,7 @@ SCRIPT_VERSION="2.0.0"
 SCRIPT_NAME="MARCELOSETUP"
 SCRIPT_AUTHOR="@marceloagentedigital"
 SCRIPT_URL="marceloautomacoes.com.br"
-SCRIPT_REPO="https://github.com/marcelo-davila-setup/instalacao-alunos"
+SCRIPT_REPO="https://raw.githubusercontent.com/marcelo-davila-setup"
 
 # Cores para output
 RED='\033[0;31m'
